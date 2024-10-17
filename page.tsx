@@ -1,6 +1,11 @@
-const Sports = () => {
+const EmployeeName = () => {
     return(
-        <h1>Sports are good!!!!</h1>
+        <section>
+            <h1>I am employee from Dynamic Route</h1>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta, ratione quas aspernatur, voluptas error id debitis autem at consectetur quidem nisi laudantium, distinctio asperiores incidunt corporis reprehenderit! Minima, maiores dignissimos?
+            </p>
+        </section>
     )
 }
-export default Sports
+export default EmployeeName

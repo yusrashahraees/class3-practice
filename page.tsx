@@ -1,11 +1,5 @@
-const EmployeeName = () => {
+export default function Product1 (){
     return(
-        <section>
-            <h1>I am employee from Dynamic Route</h1>
-            <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta, ratione quas aspernatur, voluptas error id debitis autem at consectetur quidem nisi laudantium, distinctio asperiores incidunt corporis reprehenderit! Minima, maiores dignissimos?
-            </p>
-        </section>
+        <h1>Details about Product1</h1>
     )
 }
-export default EmployeeName

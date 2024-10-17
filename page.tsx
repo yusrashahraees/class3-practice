@@ -1,5 +1,8 @@
-export default function Product1 (){
-    return(
-        <h1>Details about Product1</h1>
-    )
+
+export default function Home(){
+  return(
+    <div>
+      <h1>I am Home Page.</h1>
+    </div>
+  )
 }
